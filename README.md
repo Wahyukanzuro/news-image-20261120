@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
 [![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-[![rank](https://make.fun/badge/Wahyukanzuro/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
-[![reward](https://make.fun/badge/Wahyukanzuro/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Wahyukanzuro/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Wahyukanzuro/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
 
 [news-image-20261120 on make.fun](https://make.fun/bounty/news-image-20261120)
 
